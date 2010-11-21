@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Asm-Z80-Table
-version:            0.01
+version:            0.02
 abstract:           Z80 assembly / disassembly tables
 author:
     - Paulo Custodio <pscust@cpan.org>
